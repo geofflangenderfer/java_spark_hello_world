@@ -1,6 +1,6 @@
 ## Install dependencies
 - [sdkman](https://sdkman.io/install)
-- [maven][1]
+- maven[1]
 
 [1]
 ```
@@ -9,6 +9,7 @@
 sdk install maven 3.8.4
 ```
 
+## Run it
 ```
 $ bash run.sh
 compiled successfully
